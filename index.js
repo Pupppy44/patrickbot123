@@ -350,4 +350,4 @@ if(message.content.startsWith(prefix + "info")){
 })
 
 
-Client.login(process.env.TOKEN)
+Client.login(process.env.TOKEN);
